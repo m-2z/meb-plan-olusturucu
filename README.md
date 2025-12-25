@@ -1,2 +1,4 @@
-# meb-plan-olusturucu
-meb-plan-olusturucu/   app/     main.py     engine.py     docx_writer.py     watermark.py     ui.py   assets/     template.docx   requirements.txt   README.md   COPYRIGHT.txt   .github/     workflows/       build-windows-exe.yml
+Copyright (c) 2025-2026. All rights reserved.
+
+This repository is provided for build and deployment purposes.
+No license is granted for copying, modifying, distributing, or commercial use without explicit permission.
